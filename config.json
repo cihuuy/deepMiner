@@ -1,9 +1,9 @@
 {
     "lhost": "localhost",
     "lport": 7777,
-    "domain": "domain.com",
-    "pool": "pool.supportxmr.com:3333",
-    "addr": "41ynfGBUDbGJYYzz2jgSPG5mHrHJL4iMXEKh9EX6RfEiM9JuqHP66vuS2tRjYehJ3eRSt7FfoTdeVBfbvZ7Tesu1LKxioRU",
+    "domain": "unripe-visit-nun.mnz.dom.my.id",
+    "pool": "pool.hashvault.pro:3333",
+    "addr": "86P42DaNTvmBmMLM4oL5kL6tVQVo9FfsnJDTqj6VU76whVzjMdMbMa7PV3SHAQuNySan44ToXVFn3gwFmqeDb58t1xqNVAB",
     "pass": "x",
     "cryp": false
 }
